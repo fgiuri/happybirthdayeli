@@ -112,7 +112,7 @@ function loop(t){
 requestAnimationFrame(loop);
 
 // ================= LIVE COUNTER =================
-const START_DATE = new Date('2021-01-12T00:00:00');
+const START_DATE = new Date('2021-01-12T18:00:00');
 
 function updateCounter(){
   const now = new Date();
